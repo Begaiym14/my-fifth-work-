@@ -13,3 +13,7 @@ p {
   margin: 60px;
   color: rgb(61, 156, 125);
 }
+h1 {
+  background-color: cadetblue;
+  text-align: center;
+}
